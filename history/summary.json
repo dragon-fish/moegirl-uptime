@@ -4,19 +4,19 @@
     "url": "https://zh.moegirl.org.cn/Mainpage",
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "moegirl-zh-mainpage",
-    "status": "down",
-    "uptime": "18.84%",
-    "uptimeDay": "18.84%",
-    "uptimeWeek": "18.84%",
-    "uptimeMonth": "18.84%",
-    "uptimeYear": "18.84%",
-    "time": 3779,
-    "timeDay": 3779,
-    "timeWeek": 3779,
-    "timeMonth": 3779,
-    "timeYear": 3779,
+    "status": "up",
+    "uptime": "15.22%",
+    "uptimeDay": "15.22%",
+    "uptimeWeek": "15.22%",
+    "uptimeMonth": "15.22%",
+    "uptimeYear": "15.22%",
+    "time": 5559,
+    "timeDay": 5559,
+    "timeWeek": 5559,
+    "timeMonth": 5559,
+    "timeYear": 5559,
     "dailyMinutesDown": {
-      "2022-01-23": 272
+      "2022-01-23": 360
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "moegirl-zh-api",
     "status": "down",
-    "uptime": "21.43%",
-    "uptimeDay": "21.43%",
-    "uptimeWeek": "21.43%",
-    "uptimeMonth": "21.43%",
-    "uptimeYear": "21.43%",
+    "uptime": "16.88%",
+    "uptimeDay": "16.88%",
+    "uptimeWeek": "16.88%",
+    "uptimeMonth": "16.88%",
+    "uptimeYear": "16.88%",
     "time": 12038,
     "timeDay": 12038,
     "timeWeek": 12038,
     "timeMonth": 12038,
     "timeYear": 12038,
     "dailyMinutesDown": {
-      "2022-01-23": 262
+      "2022-01-23": 352
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://commons.moegirl.org.cn/Mainpage",
     "icon": "https://favicons.githubusercontent.com/commons.moegirl.org.cn",
     "slug": "moegirl-commons-mainpage",
-    "status": "down",
-    "uptime": "21.86%",
-    "uptimeDay": "21.86%",
-    "uptimeWeek": "21.86%",
-    "uptimeMonth": "21.86%",
-    "uptimeYear": "21.86%",
-    "time": 1722,
-    "timeDay": 1722,
-    "timeWeek": 1722,
-    "timeMonth": 1722,
-    "timeYear": 1722,
+    "status": "up",
+    "uptime": "17.23%",
+    "uptimeDay": "17.23%",
+    "uptimeWeek": "17.23%",
+    "uptimeMonth": "17.23%",
+    "uptimeYear": "17.23%",
+    "time": 1700,
+    "timeDay": 1700,
+    "timeWeek": 1700,
+    "timeMonth": 1700,
+    "timeYear": 1700,
     "dailyMinutesDown": {
-      "2022-01-23": 262
+      "2022-01-23": 352
     }
   }
 ]
