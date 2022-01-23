@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Moegirl Uptime
   introTitle: Moegirl Pedia uptime robot
-  introMessage: ""
+  introMessage: NOTICE: Unofficial
   navbar:
     - title: Status
       href: /
