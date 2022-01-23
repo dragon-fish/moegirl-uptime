@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "moegirl-zh-mainpage",
     "status": "down",
-    "uptime": "20.40%",
-    "uptimeDay": "20.40%",
-    "uptimeWeek": "20.40%",
-    "uptimeMonth": "20.40%",
-    "uptimeYear": "20.40%",
+    "uptime": "18.84%",
+    "uptimeDay": "18.84%",
+    "uptimeWeek": "18.84%",
+    "uptimeMonth": "18.84%",
+    "uptimeYear": "18.84%",
     "time": 3779,
     "timeDay": 3779,
     "timeWeek": 3779,
     "timeMonth": 3779,
     "timeYear": 3779,
     "dailyMinutesDown": {
-      "2022-01-23": 246
+      "2022-01-23": 272
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "moegirl-zh-api",
     "status": "down",
-    "uptime": "23.21%",
-    "uptimeDay": "23.21%",
-    "uptimeWeek": "23.21%",
-    "uptimeMonth": "23.21%",
-    "uptimeYear": "23.21%",
+    "uptime": "21.43%",
+    "uptimeDay": "21.43%",
+    "uptimeWeek": "21.43%",
+    "uptimeMonth": "21.43%",
+    "uptimeYear": "21.43%",
     "time": 12038,
     "timeDay": 12038,
     "timeWeek": 12038,
     "timeMonth": 12038,
     "timeYear": 12038,
     "dailyMinutesDown": {
-      "2022-01-23": 237
+      "2022-01-23": 262
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/commons.moegirl.org.cn",
     "slug": "moegirl-commons-mainpage",
     "status": "down",
-    "uptime": "23.67%",
-    "uptimeDay": "23.67%",
-    "uptimeWeek": "23.67%",
-    "uptimeMonth": "23.67%",
-    "uptimeYear": "23.67%",
+    "uptime": "21.86%",
+    "uptimeDay": "21.86%",
+    "uptimeWeek": "21.86%",
+    "uptimeMonth": "21.86%",
+    "uptimeYear": "21.86%",
     "time": 1722,
     "timeDay": 1722,
     "timeWeek": 1722,
     "timeMonth": 1722,
     "timeYear": 1722,
     "dailyMinutesDown": {
-      "2022-01-23": 236
+      "2022-01-23": 262
     }
   }
 ]
