@@ -4,19 +4,19 @@
     "url": "https://zh.moegirl.org.cn/Mainpage",
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "moegirl-zh-mainpage",
-    "status": "down",
-    "uptime": "16.93%",
-    "uptimeDay": "16.93%",
-    "uptimeWeek": "16.93%",
-    "uptimeMonth": "16.93%",
-    "uptimeYear": "16.93%",
-    "time": 3921,
-    "timeDay": 3921,
-    "timeWeek": 3921,
-    "timeMonth": 3921,
-    "timeYear": 3921,
+    "status": "up",
+    "uptime": "11.29%",
+    "uptimeDay": "11.29%",
+    "uptimeWeek": "11.29%",
+    "uptimeMonth": "11.29%",
+    "uptimeYear": "11.29%",
+    "time": 3779,
+    "timeDay": 3779,
+    "timeWeek": 3779,
+    "timeMonth": 3779,
+    "timeYear": 3779,
     "dailyMinutesDown": {
-      "2022-01-23": 151
+      "2022-01-23": 245
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://zh.moegirl.org.cn/api.php?format=json&action=query&meta=siteinfo",
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "moegirl-zh-api",
-    "status": "down",
-    "uptime": "21.61%",
-    "uptimeDay": "21.61%",
-    "uptimeWeek": "21.61%",
-    "uptimeMonth": "21.61%",
-    "uptimeYear": "21.61%",
-    "time": 7939,
-    "timeDay": 7939,
-    "timeWeek": 7939,
-    "timeMonth": 7939,
-    "timeYear": 7939,
+    "status": "up",
+    "uptime": "14.24%",
+    "uptimeDay": "14.24%",
+    "uptimeWeek": "14.24%",
+    "uptimeMonth": "14.24%",
+    "uptimeYear": "14.24%",
+    "time": 12038,
+    "timeDay": 12038,
+    "timeWeek": 12038,
+    "timeMonth": 12038,
+    "timeYear": 12038,
     "dailyMinutesDown": {
-      "2022-01-23": 142
+      "2022-01-23": 236
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://commons.moegirl.org.cn/Mainpage",
     "icon": "https://favicons.githubusercontent.com/commons.moegirl.org.cn",
     "slug": "moegirl-commons-mainpage",
-    "status": "down",
-    "uptime": "22.11%",
-    "uptimeDay": "22.11%",
-    "uptimeWeek": "22.11%",
-    "uptimeMonth": "22.11%",
-    "uptimeYear": "22.11%",
-    "time": 1909,
-    "timeDay": 1909,
-    "timeWeek": 1909,
-    "timeMonth": 1909,
-    "timeYear": 1909,
+    "status": "up",
+    "uptime": "14.57%",
+    "uptimeDay": "14.57%",
+    "uptimeWeek": "14.57%",
+    "uptimeMonth": "14.57%",
+    "uptimeYear": "14.57%",
+    "time": 1722,
+    "timeDay": 1722,
+    "timeWeek": 1722,
+    "timeMonth": 1722,
+    "timeYear": 1722,
     "dailyMinutesDown": {
-      "2022-01-23": 142
+      "2022-01-23": 236
     }
   }
 ]
