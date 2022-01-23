@@ -17,11 +17,9 @@ status-website:
   baseUrl: /moegirl-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Moegirl Uptime
-  introTitle: Moegirl Pedia uptime robot
-  introMessage: NOTICE: Unofficial
+  introTitle: "**萌娘百科** uptime"
+  introMessage: This is an unofficial uptime website for 萌娘百科
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
