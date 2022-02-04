@@ -1,7 +1,7 @@
 url: https://zh.moegirl.org.cn/api.php?format=json&action=query&meta=siteinfo
-status: down
-code: 502
-responseTime: 3173
-lastUpdated: 2022-02-04T10:43:45.298Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2022-02-04T10:49:02.203Z
 startTime: Sun Jan 23 2022 08:12:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
