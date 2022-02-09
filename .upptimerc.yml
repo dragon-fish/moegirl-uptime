@@ -3,12 +3,14 @@ owner: dragon-fish # Your GitHub organization or username, where this repository
 repo: moegirl-uptime # The name of this repository
 
 sites:
-  - name: Moegirl(zh) Mainpage
+  - name: Moegirl ZH
     url: https://zh.moegirl.org.cn/Mainpage
-  - name: Moegirl(zh) API
-    url: https://zh.moegirl.org.cn/api.php?format=json&action=query&meta=siteinfo
-  - name: Moegirl(commons) Mainpage
+  - name: Moegirl Mobile
+    url: https://mzh.moegirl.org.cn/Mainpage
+  - name: Moegirl Commons
     url: https://commons.moegirl.org.cn/Mainpage
+  - name: Moegirl Statics
+    url: https://img.moegirl.org.cn/common/9/95/MoegirlPedia-Title.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
