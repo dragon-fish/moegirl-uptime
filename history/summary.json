@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "moegirl-zh",
     "status": "down",
-    "uptime": "64.08%",
-    "uptimeDay": "67.73%",
-    "uptimeWeek": "64.08%",
-    "uptimeMonth": "64.08%",
-    "uptimeYear": "64.08%",
+    "uptime": "61.96%",
+    "uptimeDay": "63.72%",
+    "uptimeWeek": "61.96%",
+    "uptimeMonth": "61.96%",
+    "uptimeYear": "61.96%",
     "time": 3976,
     "timeDay": 3978,
     "timeWeek": 3976,
     "timeMonth": 3976,
     "timeYear": 3976,
     "dailyMinutesDown": {
-      "2022-02-10": 221,
+      "2022-02-10": 279,
       "2022-02-09": 388
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/mzh.moegirl.org.cn",
     "slug": "moegirl-mobile",
     "status": "down",
-    "uptime": "65.07%",
-    "uptimeDay": "68.85%",
-    "uptimeWeek": "65.07%",
-    "uptimeMonth": "65.07%",
-    "uptimeYear": "65.07%",
+    "uptime": "62.92%",
+    "uptimeDay": "64.84%",
+    "uptimeWeek": "62.92%",
+    "uptimeMonth": "62.92%",
+    "uptimeYear": "62.92%",
     "time": 5571,
     "timeDay": 5679,
     "timeWeek": 5571,
     "timeMonth": 5571,
     "timeYear": 5571,
     "dailyMinutesDown": {
-      "2022-02-10": 214,
+      "2022-02-10": 271,
       "2022-02-09": 376
     }
   },
@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/commons.moegirl.org.cn",
     "slug": "moegirl-commons",
     "status": "down",
-    "uptime": "65.54%",
-    "uptimeDay": "69.05%",
-    "uptimeWeek": "65.54%",
-    "uptimeMonth": "65.54%",
-    "uptimeYear": "65.54%",
+    "uptime": "63.37%",
+    "uptimeDay": "65.04%",
+    "uptimeWeek": "63.37%",
+    "uptimeMonth": "63.37%",
+    "uptimeYear": "63.37%",
     "time": 2940,
     "timeDay": 1977,
     "timeWeek": 2940,
     "timeMonth": 2940,
     "timeYear": 2940,
     "dailyMinutesDown": {
-      "2022-02-10": 213,
+      "2022-02-10": 271,
       "2022-02-09": 371
     }
   },
@@ -67,9 +67,9 @@
     "url": "https://img.moegirl.org.cn/common/9/95/MoegirlPedia-Title.png",
     "icon": "https://favicons.githubusercontent.com/img.moegirl.org.cn",
     "slug": "moegirl-statics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,6 +78,8 @@
     "timeWeek": 6239,
     "timeMonth": 6239,
     "timeYear": 6239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   }
 ]
